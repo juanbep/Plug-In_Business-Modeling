@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wF6n6ljm6jYb3sm2D_ANzA" name="new_artifact,_IEL14AsWEe-Ir9E9KHWjOg" guid="-wF6n6ljm6jYb3sm2D_ANzA" changeDate="2024-05-05T14:32:58.537-0500">
+  <purpose>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The following roles and role sets use the Supplementary Specifications:&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_sysan.htm&quot;>&lt;b>&lt;u>Analysts&lt;/u>&lt;/b>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>create&#xD;
+        and maintain the Supplementary Specifications, which serve as a communication medium between the analyst, the&#xD;
+        customer, and developers.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_dsgnr.htm&quot;>&lt;b>&lt;u>Developers&lt;/u>&lt;/b>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>use&#xD;
+        the Supplementary Specifications as a reference when defining responsibilities, operations, and attributes on&#xD;
+        classes, and when adjusting classes to the implementation environment.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,0,255)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_implm.htm&quot;>&lt;b>&lt;u>Implementers&lt;/u>&lt;/b>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>refer&#xD;
+        to the Supplementary Specifications for input when implementing classes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_projm.htm&quot;>&lt;b>&lt;u>Managers&lt;/u>&lt;/b>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>refer&#xD;
+        to the Supplementary Specifications for input when planning iterations.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tstds.htm&quot;>&lt;b>&lt;u>Testers&lt;/u>&lt;/b>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>use&#xD;
+        the Supplementary Specifications to verify system compliance.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

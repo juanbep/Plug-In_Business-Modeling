@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0f5qUlDsg8bSMT4vsBhu2w" name="new_artifact,_-tDR8AsWEe-Ir9E9KHWjOg" guid="-0f5qUlDsg8bSMT4vsBhu2w" changeDate="2024-05-05T14:38:39.913-0500">
+  <purpose>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The following people use the use-case model:&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        The customer approves the use-case model. When you have that approval, you know the system is what the customer&#xD;
+        wants. You can also use the model to discuss the system with the customer during development.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Potential users use the use-case model to better understand the system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        The software architect uses the use-case model to identify architecturally significant functionality.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Designers use the use-case model to get a system overview. When you refine the system, for example, you need&#xD;
+        documentation on the use-case model to aid that work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        The manager uses the use-case model to plan and follow up the use-case modeling and also the subsequent design.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        People outside the project but within the organization, executives, and steering committees, use the use-case model&#xD;
+        to get an insight into what has been done.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        People review the use-case model to give appropriate feedback to developers on a regular basis.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Designers use the use-case model as a basis for their work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Testers use the use-case model to plan testing activities (use-case and integration testing) as early as possible.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Those who will develop the next version of the system use the use-case model to understand how the existing version&#xD;
+        works.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Documentation writers use the use cases as a basis for writing the system's user guides.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WqVRi9-ikMfA9CUzAzx5Jg" name=",_d8-8IAp8Ee-Ir9E9KHWjOg" guid="-WqVRi9-ikMfA9CUzAzx5Jg" changeDate="2024-05-04T20:12:17.043-0500">
+  <sections xmi:id="_2uTVwA8TEe-XRJQJ8FX8Ug" name="■ Establish Include-Relationships Between Business Use Cases" guid="_2uTVwA8TEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    If you find that there are large portions in a workflow than can be factored out as an inclusion to simplify the&#xD;
+    original business use case, those parts can form a new business use case that is included in the original business use&#xD;
+    cases.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    You should briefly describe every relationship you define.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bucm.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;     face=&quot;Times New Roman&quot;>Guidelines: Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bincl.htm&quot;>&lt;u>&lt;font     size=&quot;4&quot; face=&quot;Times New Roman&quot;>Guidelines: Include-Relationship in the Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_3IFHsA8TEe-XRJQJ8FX8Ug" name="■ Establish Extend-Relationships Between Business Use Cases" guid="_3IFHsA8TEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    If you find major parts of a workflow that form an option to the normal workflow, you can factor that part out to a new&#xD;
+    business use case that is an extension to the original business use case.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Make sure that the workflow of the original business use case is still complete and understandable in and of itself.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bucm.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;     face=&quot;Times New Roman&quot;>Guidelines: Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bext.htm&quot;>&lt;u>&lt;font     size=&quot;4&quot; face=&quot;Times New Roman&quot;>Guidelines: Extend-Relationship in the Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7tLDgA8TEe-XRJQJ8FX8Ug" name="■ Establish Generalizations Between Business Use Cases" guid="_7tLDgA8TEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    In the business use-case model, use-case-generalizations can be used to find workflows that structure purpose and&#xD;
+    behavior.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bucm.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;     face=&quot;Times New Roman&quot;>Guidelines: Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bucgn.htm&quot;>&lt;u>&lt;font     size=&quot;4&quot; face=&quot;Times New Roman&quot;>Guidelines: Use-Case Generalization in the Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_9AV7kA8TEe-XRJQJ8FX8Ug" name="■ Establish Generalizations Between Business Actors" guid="_9AV7kA8TEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    If two business actors interact with the same business use case in exactly the same way, they play the same role with&#xD;
+    respect to that business use case. To clarify this situation you can create a new business actor for this common role.&#xD;
+    The original business actors inherit this new business actor.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bacg.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;     face=&quot;Times New Roman&quot;>Guidelines: Actor-Generalization in the Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_AbEWAA8UEe-XRJQJ8FX8Ug" name="■ Evaluate Your Results" guid="_AbEWAA8UEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    You should continuously evaluate the structure of your business use-case model to make sure it is understandable to&#xD;
+    your stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See checkpoints for business actor, business use case and business use-case model in&lt;span>&amp;nbsp;&lt;/span>&lt;a&#xD;
+    style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_rvbuc.htm&quot;>&lt;u>&lt;font&#xD;
+    size=&quot;4&quot; face=&quot;Times New Roman&quot;>Activity: Review the Business Use-Case Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To extract behavior in business use cases that need to be considered as abstract business use cases. Examples of&#xD;
+        such behavior are common behavior, optional behavior, and behavior that is to be developed in later iterations.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To find new abstract business actors that define roles that are shared by several business actors.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

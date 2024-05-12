@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i026lW81qYUK70jggrK4QA" name="new_artifact,_H1IXIAsfEe-Ir9E9KHWjOg" guid="-i026lW81qYUK70jggrK4QA" changeDate="2024-05-05T15:37:06.331-0500">
+  <purpose>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The following people use the business worker:&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        The&lt;span>&amp;nbsp;&lt;/span>&lt;strong>business designer&lt;/strong>&lt;span>&amp;nbsp;&lt;/span>describes the business worker in order&#xD;
+        to explain a role or set of roles in the business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        A&lt;span>&amp;nbsp;&lt;/span>&lt;strong>system analyst&lt;/strong>&lt;span>&amp;nbsp;&lt;/span>uses the business workers as input when&#xD;
+        identifying system actors and use cases.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

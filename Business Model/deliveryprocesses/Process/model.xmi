@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_P5GnoQuuEe-KNZeel9MAgA" guid="_P5GnoQuuEe-KNZeel9MAgA">
+    <resourceDescriptors xmi:id="_P5GnoguuEe-KNZeel9MAgA" id="-eb6otUc-z0S5-FD_AIMNRQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_P3BkAAuuEe-KNZeel9MAgA" name="Process" guid="_P3BkAAuuEe-KNZeel9MAgA">
+    <methodElementProperty xmi:id="_P3BkAguuEe-KNZeel9MAgA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_5sLdAAuuEe-KNZeel9MAgA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Tyt9gAuuEe-KNZeel9MAgA" name="Asses Bussines Status" guid="_Tyt9gAuuEe-KNZeel9MAgA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Tyt9gQuuEe-KNZeel9MAgA" name="Asses Bussines Status" guid="_Tyt9gQuuEe-KNZeel9MAgA" superActivities="_P3BkAQuuEe-KNZeel9MAgA" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_y-eg0AusEe-KNZeel9MAgA#_y-eg0QusEe-KNZeel9MAgA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sZZGcA_OEe-XRJQJ8FX8Ug" name="Identify Business Processes" guid="_sZZGcA_OEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_sZZGcQ_OEe-XRJQJ8FX8Ug" name="Identify Business Processes" guid="_sZZGcQ_OEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_zAmDMA86Ee-XRJQJ8FX8Ug#_zAmDMQ86Ee-XRJQJ8FX8Ug"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RhwjYA_TEe-XRJQJ8FX8Ug" name="Describe Current Business" guid="_RhwjYA_TEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_RhwjYQ_TEe-XRJQJ8FX8Ug" name="Describe Current Business" guid="_RhwjYQ_TEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_IJG5UA_QEe-XRJQJ8FX8Ug#_IJG5UQ_QEe-XRJQJ8FX8Ug"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_BQXtoA_VEe-XRJQJ8FX8Ug" name="Refine Business Process Definitions" guid="_BQXtoA_VEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_BQXtoQ_VEe-XRJQJ8FX8Ug" name="Refine Business Process Definitions" guid="_BQXtoQ_VEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" linkToPredecessor="_bUkG8Q_jEe-XRJQJ8FX8Ug" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_lHzgcA_UEe-XRJQJ8FX8Ug#_lHzgcQ_UEe-XRJQJ8FX8Ug"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_bUkG8Q_jEe-XRJQJ8FX8Ug" guid="_bUkG8Q_jEe-XRJQJ8FX8Ug" pred="_sZZGcQ_OEe-XRJQJ8FX8Ug"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_atPCMA_YEe-XRJQJ8FX8Ug" name="Develop a Domain Model" guid="_atPCMA_YEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_atPCMQ_YEe-XRJQJ8FX8Ug" name="Develop a Domain Model" guid="_atPCMQ_YEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_FzMRMA_YEe-XRJQJ8FX8Ug#_FzMRMQ_YEe-XRJQJ8FX8Ug"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IsNTcA_dEe-XRJQJ8FX8Ug" name="Explore Process Automation" guid="_IsNTcA_dEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_IsNTcQ_dEe-XRJQJ8FX8Ug" name="Explore Process Automation" guid="_IsNTcQ_dEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_92IhwA_cEe-XRJQJ8FX8Ug#_92IhwQ_cEe-XRJQJ8FX8Ug"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MsSWUA_gEe-XRJQJ8FX8Ug" name="Design Business Process Realizations" guid="_MsSWUA_gEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MsSWUQ_gEe-XRJQJ8FX8Ug" name="Design Business Process Realizations" guid="_MsSWUQ_gEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" linkToPredecessor="_yWVZcA_jEe-XRJQJ8FX8Ug" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_sJwfQA_fEe-XRJQJ8FX8Ug#_sJwfQQ_fEe-XRJQJ8FX8Ug"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_yWVZcA_jEe-XRJQJ8FX8Ug" guid="_yWVZcA_jEe-XRJQJ8FX8Ug" pred="_BQXtoQ_VEe-XRJQJ8FX8Ug"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_O50IYA_hEe-XRJQJ8FX8Ug" name="Refine Roles and Responsibilities" guid="_O50IYA_hEe-XRJQJ8FX8Ug">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_O59SUA_hEe-XRJQJ8FX8Ug" name="Refine Roles and Responsibilities" guid="_O59SUA_hEe-XRJQJ8FX8Ug" superActivities="_P3BkAQuuEe-KNZeel9MAgA" linkToPredecessor="_2OORAA_jEe-XRJQJ8FX8Ug" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_BcqmwA_hEe-XRJQJ8FX8Ug#_BcqmwQ_hEe-XRJQJ8FX8Ug"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2OORAA_jEe-XRJQJ8FX8Ug" guid="_2OORAA_jEe-XRJQJ8FX8Ug" pred="_MsSWUQ_gEe-XRJQJ8FX8Ug"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_P3BkAQuuEe-KNZeel9MAgA" name="Process" guid="_P3BkAQuuEe-KNZeel9MAgA" presentationName="Process" breakdownElements="_Tyt9gQuuEe-KNZeel9MAgA _sZZGcQ_OEe-XRJQJ8FX8Ug _RhwjYQ_TEe-XRJQJ8FX8Ug _BQXtoQ_VEe-XRJQJ8FX8Ug _atPCMQ_YEe-XRJQJ8FX8Ug _IsNTcQ_dEe-XRJQJ8FX8Ug _MsSWUQ_gEe-XRJQJ8FX8Ug _O59SUA_hEe-XRJQJ8FX8Ug">
+      <presentation xmi:id="-eb6otUc-z0S5-FD_AIMNRQ" href="uma://-eb6otUc-z0S5-FD_AIMNRQ#-eb6otUc-z0S5-FD_AIMNRQ"/>
+      <includesPatterns href="uma://_y-eg0AusEe-KNZeel9MAgA#_y-eg0QusEe-KNZeel9MAgA"/>
+      <includesPatterns href="uma://_zAmDMA86Ee-XRJQJ8FX8Ug#_zAmDMQ86Ee-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_IJG5UA_QEe-XRJQJ8FX8Ug#_IJG5UQ_QEe-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_lHzgcA_UEe-XRJQJ8FX8Ug#_lHzgcQ_UEe-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_FzMRMA_YEe-XRJQJ8FX8Ug#_FzMRMQ_YEe-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_92IhwA_cEe-XRJQJ8FX8Ug#_92IhwQ_cEe-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_sJwfQA_fEe-XRJQJ8FX8Ug#_sJwfQQ_fEe-XRJQJ8FX8Ug"/>
+      <includesPatterns href="uma://_BcqmwA_hEe-XRJQJ8FX8Ug#_BcqmwQ_hEe-XRJQJ8FX8Ug"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

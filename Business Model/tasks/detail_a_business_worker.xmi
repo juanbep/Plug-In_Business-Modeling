@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--A94acJ19QFeW3LbmDYrlw" name=",_2PePYAsbEe-Ir9E9KHWjOg" guid="--A94acJ19QFeW3LbmDYrlw" changeDate="2024-05-05T15:13:10.676-0500">
+  <sections xmi:id="_wPcmsA85Ee-XRJQJ8FX8Ug" name="■ Determine areas of responsibility" guid="_wPcmsA85Ee-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Make sure you have access to descriptions of all workflows in which the business worker participates. Also, you may&#xD;
+    need descriptions of business workers with which this business worker communicates, as well as business entities&#xD;
+    accessed.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Decide the business worker’s areas of responsibilities within each business use-case realization. Briefly describe each&#xD;
+    responsibility in the business worker’s responsibility section.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Write step-by-step instructions for each operation that describe what the person acting as the business worker should&#xD;
+    do.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_zaiCoA85Ee-XRJQJ8FX8Ug" name="■ Define operations" guid="_zaiCoA85Ee-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    On the basis of what the business worker does in each business use-case realizations, decide what operations the&#xD;
+    business worker should perform. A business worker can have one or more operations for each area of responsibility.&#xD;
+    Briefly describe each operation.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Finalize the responsibility description and explain how all operations are related, including the business worker’s&#xD;
+    lifecycle. Also, describe how the business worker should prioritize among the operations.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bwk.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Worker&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_491TIA85Ee-XRJQJ8FX8Ug" name="■ Define attributes" guid="_491TIA85Ee-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Identify and describe the attributes of the business worker, based on the business worker’s operations.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bwk.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Worker&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_CUij0A86Ee-XRJQJ8FX8Ug" name="■ Describe competence requirements" guid="_CUij0A86Ee-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;span&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Describe what competence the business worker must have, or what the collection of people acting as this business worker&#xD;
+must have.&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_Gd4XwA86Ee-XRJQJ8FX8Ug" name="■ Evaluate your results" guid="_Gd4XwA86Ee-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Review and discuss the business worker with other members of the team and appropriate stakeholders, so that they have a&#xD;
+    clear understanding of the business worker and agree on its description.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bwk.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Worker&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and checkpoints for business&#xD;
+    workers in&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_rvbom.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Activity: Review Business Object Model&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Detail the responsibilities of a business worker.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

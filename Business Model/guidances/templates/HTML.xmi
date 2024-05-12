@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IgEHSQYX4bxds8UISW-uNQ" name="new_template,_fMbhwA5hEe-uEvymC0p-sg" guid="-IgEHSQYX4bxds8UISW-uNQ" changeDate="2024-05-09T19:40:52.103-0500">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/HTML.txt</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

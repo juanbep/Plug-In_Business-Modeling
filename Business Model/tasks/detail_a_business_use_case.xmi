@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s0hLamK9lSzQHz7m-p84mQ" name=",_8LIVwAp8Ee-Ir9E9KHWjOg" guid="-s0hLamK9lSzQHz7m-p84mQ" changeDate="2024-05-04T20:15:36.792-0500">
+  <sections xmi:id="_6oj2wA8REe-XRJQJ8FX8Ug" name="■ Collect Information about the Business Use Case" guid="_6oj2wA8REe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_8DBpoA8REe-XRJQJ8FX8Ug" name="■ Detail the Workflow of the Business Use Case" guid="_8DBpoA8REe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_9J9cgA8REe-XRJQJ8FX8Ug" name="■ Structure the Workflow of the Business Use Case" guid="_9J9cgA8REe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_-Y8_MA8REe-XRJQJ8FX8Ug" name="■ Illustrate Relationships with Business Actors and Other Business Use Cases" guid="_-Y8_MA8REe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="__ThKAA8REe-XRJQJ8FX8Ug" name="■ Describe the Special Requirements of the Business Use Case" guid="__ThKAA8REe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_AROIYA8SEe-XRJQJ8FX8Ug" name="■ Describe Performance Goals of the Business Use Case, &lt;optional>" guid="_AROIYA8SEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_BJGyoA8SEe-XRJQJ8FX8Ug" name="■ Describe Extension Points" guid="_BJGyoA8SEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_B_oyAA8SEe-XRJQJ8FX8Ug" name="■ Evaluate Your Results" guid="_B_oyAA8SEe-XRJQJ8FX8Ug"/>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To describe the business use case's workflow in detail.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To describe the business use case's workflow so that the customer, users, and stakeholders can understand it.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

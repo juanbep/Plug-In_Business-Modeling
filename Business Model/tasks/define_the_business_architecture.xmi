@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pFo-juRHZVJ6Egr-houn1g" name=",_ridtoApsEe-Ir9E9KHWjOg" guid="-pFo-juRHZVJ6Egr-houn1g" changeDate="2024-05-04T18:19:26.172-0500">
+  <sections xmi:id="_mdKK4A8FEe-XRJQJ8FX8Ug" name="Develop an overview of the business architecture" guid="_mdKK4A8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The business architecture overview is created early in the lifecycle of a project, possibly as early as the proposal.&#xD;
+    It is often in graphical form, using some informal notation or story-boarding technique. It represents the intent and&#xD;
+    idea behind a business modeling effort. It is produced by the lead business-process analyst, often in collaboration&#xD;
+    with the project sponsor. The overview graph should indicate major elements of the business and its surrounding such as&#xD;
+    teams, business tools, and external sources of influence (regulatory bodies, partners, market segments).&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    At this point the business architecture overview is a provisional first pass. No commitments should be based on this&#xD;
+    overview diagram.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The initial overview graph may or may not be included as part of the Business Architecture Document, depending on what&#xD;
+    value it adds to the content.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_pyH7kA8FEe-XRJQJ8FX8Ug" name="Prioritize business processes" guid="_pyH7kA8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Determine which business processes are most critical to explore in order to achieve the goals presented in&#xD;
+    the&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bvsio.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Business Vision&lt;/font>&lt;/u>&lt;/a>. Look for business use cases or business scenarios from the&#xD;
+    outlined business use-case model (in&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_fbauc.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Activity: Find Business Actors and Use Cases&lt;/font>&lt;/u>&lt;/a>) that represent some significant,&#xD;
+    central capability of the of the target organization, or have a large architectural coverage - they exercise many&#xD;
+    architectural elements, or if they stress or illustrate a specific, delicate point of the business architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The prioritized business processes or business scenarios should be documented in the business use-case view of the&#xD;
+    Business Architecture Document. See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bad.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Architecture Document&lt;/font>&lt;/u>&lt;/a>, the section on business process&#xD;
+    view.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_xjDhQA8FEe-XRJQJ8FX8Ug" name="Outline the high-level organization" guid="_xjDhQA8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Identify the high-level groupings that will constitute the organization. This can be departments, divisions, or&#xD;
+    business units, somewhat depending on what terminology your organization uses. These high-level groupings are your&#xD;
+    initial set of&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_orgu.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>organization units&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>in the business object model.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    For key interfaces towards customers and where appropriate between organization units, identify which are the&#xD;
+    primary&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bwk.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>business workers&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and&lt;span>&amp;nbsp;&lt;/span>&lt;a&#xD;
+    style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bent.htm&quot;>&lt;u>&lt;font&#xD;
+    size=&quot;4&quot; face=&quot;Times New Roman&quot;>business entities&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>involved.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Consider the scope of the project as defined in the&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bvsio.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Business Vision&lt;/font>&lt;/u>&lt;/a>. There is no point in exploring details of parts of the&#xD;
+    organization that are out of scope. See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/workflow/busmodel/co_large.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Concepts: Modeling Large Organizations&lt;/font>&lt;/u>&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The sketches to a high-level organization should be included in the organization structure view of the Business&#xD;
+    Architecture Document. See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bad.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Architecture Document&lt;/font>&lt;/u>&lt;/a>, the section on organization structure&#xD;
+    view.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_0TyjgA8FEe-XRJQJ8FX8Ug" name="Outline prioritized process realizations" guid="_0TyjgA8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Identify which&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bwk.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>business workers&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>and&lt;span>&amp;nbsp;&lt;/span>&lt;a&#xD;
+    style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bent.htm&quot;>&lt;u>&lt;font&#xD;
+    size=&quot;4&quot; face=&quot;Times New Roman&quot;>business entities&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>participate in the execution of each&#xD;
+    prioritized business use case. They form the&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bucr.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>business use-case realization&lt;/font>&lt;/u>&lt;/a>&lt;span>&amp;nbsp;&lt;/span>of the business use case.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The sketches to process realizations should be included in the organization structure view of the Business Architecture&#xD;
+    Document. See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bad.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Architecture Document&lt;/font>&lt;/u>&lt;/a>, the section on organization structure&#xD;
+    view.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_3l2KIA8FEe-XRJQJ8FX8Ug" name="Define culture view" guid="_3l2KIA8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Defining the culture view includes the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Determine the characteristics of the culture.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Determine which of these characteristics are key to the organization and are necessary to leave undisturbed.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Discuss what should change.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Determine what mechanisms are in place to maintain and encourage the culture. Discuss ideas to new or change&#xD;
+        mechanisms&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Define a path to be taken to introduce any changes you determine to be necessary.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The results of this step should be documented in the culture view of the Business Architecture Document. See&#xD;
+    also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bad.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Architecture Document&lt;/font>&lt;/u>&lt;/a>, the section on culture view.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_6e-6cA8FEe-XRJQJ8FX8Ug" name="Define Human Resource Aspect View" guid="_6e-6cA8FEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Defining the human resource aspect view includes the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Discuss education needs. There is a need to define both the long-term training program each new employee should&#xD;
+        have, as well as any initial training needs when introducing new business processes.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Define any mechanisms (reward structures, trainee programs, mentor programs, or other incentives) that need to be&#xD;
+        put in place to enhance skill levels.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        Explore what needs there are to change location of individuals in the organization, based on changes in&#xD;
+        responsibilities or any needs to enhance communication.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The results of this step should be documented in the human resource aspects view of the Business Architecture Document.&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bad.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Architecture Document&lt;/font>&lt;/u>&lt;/a>, the section on human resource aspect&#xD;
+    view.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_BHb1IA8GEe-XRJQJ8FX8Ug" name="Evaluate your results" guid="_BHb1IA8GEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;span&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+You should check the Business Architecture Document verify that your work is on track. See&lt;span>&amp;nbsp;&lt;/span>&lt;/span>&lt;a&#xD;
+style=&quot;'FONT-SIZE:&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/activity/chklists/ck_bad.htm&quot;>&lt;u>Checkpoints:&#xD;
+Business Architecture Document&lt;/u>&lt;/a>&lt;span&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+.&amp;nbsp;&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To define an architecture for the business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To define the business patterns, key mechanisms and modeling conventions for the business.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

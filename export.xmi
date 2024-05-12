@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_GlXsUQYlEe-GdK8DpfvN8A" xmi:id="_GlXsUQYlEe-GdK8DpfvN8A">
+<subManagers href="uma://_8HMLUAYmEe-GdK8DpfvN8A#_8HVVQQYmEe-GdK8DpfvN8A" xmi:id="_8HVVQQYmEe-GdK8DpfvN8A">
+</subManagers>
+<resourceDescriptors id="_GlXsUAYlEe-GdK8DpfvN8A" uri="" xmi:id="_GlXsUgYlEe-GdK8DpfvN8A">
+</resourceDescriptors>
+<resourceDescriptors id="_8HMLUAYmEe-GdK8DpfvN8A" uri="Business Model/plugin.xmi" xmi:id="_8HVVQgYmEe-GdK8DpfvN8A">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_GlXsUAYlEe-GdK8DpfvN8A" name="BusinessModeling" xmi:id="_GlXsUAYlEe-GdK8DpfvN8A">
+<methodElementProperty name="library_synFree" value="true" xmi:id="_GndXAAYlEe-GdK8DpfvN8A">
+</methodElementProperty>
+<methodPlugins href="uma://_8HMLUAYmEe-GdK8DpfvN8A#_8HMLUAYmEe-GdK8DpfvN8A" xmi:id="_8HMLUAYmEe-GdK8DpfvN8A">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_8HMLUAYmEe-GdK8DpfvN8A">
+</methodElementProperty>
+<methodElementProperty value="Business Model">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

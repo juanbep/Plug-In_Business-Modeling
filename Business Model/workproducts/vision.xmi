@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qcz16XpHUaOhONFOj7TlfA" name="new_artifact,_aVxwUA5rEe-uEvymC0p-sg" guid="-qcz16XpHUaOhONFOj7TlfA" changeDate="2024-05-09T20:20:27.835-0500">
+  <purpose>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The Vision document provides a high-level–sometimes contractual–basis for the more detailed technical requirements.&#xD;
+    There can also be a formal requirements specification. The Vision captures very high-level requirements and design&#xD;
+    constraints to give the reader an understanding of the system to be developed. It provides input to the&#xD;
+    project-approval process and is, therefore, intimately related to the Business Case. It communicates the fundamental&#xD;
+    &quot;whys and what's&quot; related to the project and is a gauge against which all future decisions should be validated.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    The Vision document will be read by&lt;span>&amp;nbsp;&lt;/span>&lt;b>managers&lt;/b>,&lt;span>&amp;nbsp;&lt;/span>&lt;b>funding&#xD;
+    authorities&lt;/b>&lt;span>&amp;nbsp;&lt;/span>roles in use-case modeling,&#xD;
+    and&lt;span>&amp;nbsp;&lt;/span>&lt;b>developers&lt;/b>&lt;span>&amp;nbsp;&lt;/span>in general.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

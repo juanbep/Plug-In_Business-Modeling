@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bD_EkSUJ642QVY3HIGYOVQ" name=",_62-ZgApsEe-Ir9E9KHWjOg" guid="-bD_EkSUJ642QVY3HIGYOVQ" changeDate="2024-05-04T18:20:54.671-0500">
+  <sections xmi:id="_dgCM8A8HEe-XRJQJ8FX8Ug" name="■ Find Business Actors" guid="_dgCM8A8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_fCdpAA8HEe-XRJQJ8FX8Ug" name="■ Find Business Use Cases" guid="_fCdpAA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_f7s-IA8HEe-XRJQJ8FX8Ug" name="■ Prioritize Business Use Cases" guid="_f7s-IA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_g1OAEA8HEe-XRJQJ8FX8Ug" name="■ Develop an Outline of the Workflow of Business Use Cases" guid="_g1OAEA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_h3ZOwA8HEe-XRJQJ8FX8Ug" name="■ Describe How Business Actors and Use Cases Interact" guid="_h3ZOwA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_i9vy0A8HEe-XRJQJ8FX8Ug" name="■ Package Business Use-Cases and Actors" guid="_i9vy0A8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_j4m4kA8HEe-XRJQJ8FX8Ug" name="■ Present the Business Use-Case Model in Use-Case Diagrams" guid="_j4m4kA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_kxPJsA8HEe-XRJQJ8FX8Ug" name="■ Develop a Survey of the Business Use-Case Model" guid="_kxPJsA8HEe-XRJQJ8FX8Ug"/>
+  <sections xmi:id="_lqxZwA8HEe-XRJQJ8FX8Ug" name="■ Evaluate Your Results" guid="_lqxZwA8HEe-XRJQJ8FX8Ug"/>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To outline the processes in the business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To define the boundaries of the business to be modeled.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To define who and what will interact with the business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To create diagrams of the business use-case model.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To develop a survey of the business use-case model.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

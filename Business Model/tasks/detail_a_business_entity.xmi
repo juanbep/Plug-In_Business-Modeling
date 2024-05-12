@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PQqMOxS6TB80eV0dY2KZ0Q" name="detail_a_business_entity,_EWh_AAp_Ee-Ir9E9KHWjOg" guid="-PQqMOxS6TB80eV0dY2KZ0Q">
+  <sections xmi:id="_H4FZ0A8XEe-XRJQJ8FX8Ug" name="■ Determine areas of responsibility" guid="_H4FZ0A8XEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;span style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Collect all business use-case realizations in which the business entity participates. Make sure you have access to&#xD;
+descriptions of business workers that access the business entity, and other business entities with some relation to it. The&#xD;
+responsibility description for the business entity should include the entity's role in the business, and its lifecycle from&#xD;
+creation to deletion. You can document the lifecycle with a statechart diagram (see&lt;span>&amp;nbsp;&lt;/span>&lt;/span>&lt;a style=&quot;'FONT-SIZE:&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bstd.htm&quot;>&lt;u>Guidelines: Statechart&#xD;
+Diagrams in the Business Object Model&lt;/u>&lt;/a>&lt;span style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+).&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_IK2k0A8XEe-XRJQJ8FX8Ug" name="■ Define operations" guid="_IK2k0A8XEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    On the basis of what the business entity does in each business use-case realization it participates in, decide what&#xD;
+    operations the business entity should have. These operations provide tools for the business workers to access the&#xD;
+    business entity. Briefly describe each operation.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Finalize the responsibility description and explain how all operations are related, including the business entity’s&#xD;
+    lifecycle.&#xD;
+&lt;/p>&#xD;
+&lt;p style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot; href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bent.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;     face=&quot;Times New Roman&quot;>Guidelines: Business Entity&lt;/font>&lt;/u>&lt;/a>, the discussion on operations.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_JIHeUA8XEe-XRJQJ8FX8Ug" name="■ Define attributes" guid="_JIHeUA8XEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Identify and briefly describe the attributes of the business entity.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bent.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Entity&lt;/font>&lt;/u>&lt;/a>, the discussion on attributes.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_KAAIkA8XEe-XRJQJ8FX8Ug" name="■ Evaluate your results" guid="_KAAIkA8XEe-XRJQJ8FX8Ug">
+    <sectionDescription>&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Review and discuss the business entity with other members of the team and appropriate stakeholders, so that they have a&#xD;
+    clear understanding of the business entity and agree on its description.&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    See also&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_bent.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Guidelines: Business Entity&lt;/font>&lt;/u>&lt;/a>, and checkpoints for business entities&#xD;
+    in&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+    href=&quot;https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_rvbom.htm&quot;>&lt;u>&lt;font size=&quot;4&quot;&#xD;
+    face=&quot;Times New Roman&quot;>Activity: Review Business Object Model&lt;/font>&lt;/u>&lt;/a>.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

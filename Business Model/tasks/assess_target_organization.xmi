@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-18Nx5Ul3kPgCXxNvMRpwzg" name=",_mxysUAYsEe-GdK8DpfvN8A" guid="-18Nx5Ul3kPgCXxNvMRpwzg" changeDate="2024-04-29T08:31:44.912-0500">
+  <sections xmi:id="_qgm40A5uEe-uEvymC0p-sg" name="■ Initiate an assessment" guid="_qgm40A5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_t1vBkA5uEe-uEvymC0p-sg" name="■ Identify the stakeholders" guid="_t1vBkA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_u2kzgA5uEe-uEvymC0p-sg" name="■ Describe the structure of the target organization" guid="_u2kzgA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_v2jp0A5uEe-uEvymC0p-sg" name="■ Identify key persons" guid="_v2jp0A5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_wzSX0A5uEe-uEvymC0p-sg" name="■ Assess business idea and business strategy" guid="_wzSX0A5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_xiSL0A5uEe-uEvymC0p-sg" name="■ Benchmark" guid="_xiSL0A5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_yRv54A5uEe-uEvymC0p-sg" name="■ Measure target organization" guid="_yRv54A5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_zF56sA5uEe-uEvymC0p-sg" name="■ Identify the underlying reasons for change" guid="_zF56sA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_z76VoA5uEe-uEvymC0p-sg" name="■ Estimate the capacity for change" guid="_z76VoA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_0ypwYA5uEe-uEvymC0p-sg" name="■ Identify problems" guid="_0ypwYA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_1rjHQA5uEe-uEvymC0p-sg" name="■ Draw conclusions" guid="_1rjHQA5uEe-uEvymC0p-sg"/>
+  <sections xmi:id="_2WC1wA5uEe-uEvymC0p-sg" name="■ Make recommendations" guid="_2WC1wA5uEe-uEvymC0p-sg"/>
+  <purpose>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To describe the current status of the organization in which the application is to be deployed, in terms of its&#xD;
+        current process, tools, people's competencies, people's attitudes, customers, competitors, technical trends,&#xD;
+        problems, and improvement areas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To motivate why the target organization must be engineered.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        To identify stakeholders to the business modeling effort.&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

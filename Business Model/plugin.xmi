@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_8HVVQQYmEe-GdK8DpfvN8A" guid="_8HVVQQYmEe-GdK8DpfvN8A">
+    <subManagers xmi:id="_zAkLgAusEe-KNZeel9MAgA" href="uma://_y-eg0AusEe-KNZeel9MAgA#_zAkLgAusEe-KNZeel9MAgA"/>
+    <subManagers xmi:id="_P5GnoQuuEe-KNZeel9MAgA" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_P5GnoQuuEe-KNZeel9MAgA"/>
+    <subManagers xmi:id="_zCh84Q86Ee-XRJQJ8FX8Ug" href="uma://_zAmDMA86Ee-XRJQJ8FX8Ug#_zCh84Q86Ee-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_ILCzAA_QEe-XRJQJ8FX8Ug" href="uma://_IJG5UA_QEe-XRJQJ8FX8Ug#_ILCzAA_QEe-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_lJmQMQ_UEe-XRJQJ8FX8Ug" href="uma://_lHzgcA_UEe-XRJQJ8FX8Ug#_lJmQMQ_UEe-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_F1un0A_YEe-XRJQJ8FX8Ug" href="uma://_FzMRMA_YEe-XRJQJ8FX8Ug#_F1un0A_YEe-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_94EbcA_cEe-XRJQJ8FX8Ug" href="uma://_92IhwA_cEe-XRJQJ8FX8Ug#_94EbcA_cEe-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_sL2J8Q_fEe-XRJQJ8FX8Ug" href="uma://_sJwfQA_fEe-XRJQJ8FX8Ug#_sL2J8Q_fEe-XRJQJ8FX8Ug"/>
+    <subManagers xmi:id="_BecvcQ_hEe-XRJQJ8FX8Ug" href="uma://_BcqmwA_hEe-XRJQJ8FX8Ug#_BecvcQ_hEe-XRJQJ8FX8Ug"/>
+    <resourceDescriptors xmi:id="_AApeQgYpEe-GdK8DpfvN8A" id="-6CnI138DlRri-7w5Fr_FfQ" uri="tasks/capture_a_common_business_vocabulary.xmi"/>
+    <resourceDescriptors xmi:id="_Veo-8AYrEe-GdK8DpfvN8A" id="-62XnN1OPPz9EVaI8DSuCbg" uri="tasks/maintain_business_rules.xmi"/>
+    <resourceDescriptors xmi:id="_0mRv4QYsEe-GdK8DpfvN8A" id="-18Nx5Ul3kPgCXxNvMRpwzg" uri="tasks/assess_target_organization.xmi"/>
+    <resourceDescriptors xmi:id="_9UonIQYsEe-GdK8DpfvN8A" id="-car4evElFUqjg6y_cX7ZEg" uri="tasks/set_and_ajust_goals.xmi"/>
+    <resourceDescriptors xmi:id="_1aVNkAYtEe-GdK8DpfvN8A" id="-qof-QNd1I35AsSxisfbhQA" uri="workproducts/business_glossary.xmi"/>
+    <resourceDescriptors xmi:id="_dyN3UAYuEe-GdK8DpfvN8A" id="-lz-LQ5qFFaqQcS4SmKMCjQ" uri="workproducts/business_rules.xmi"/>
+    <resourceDescriptors xmi:id="_sqTF4gYuEe-GdK8DpfvN8A" id="-WznfZSOPJngWozhfdXnJew" uri="workproducts/busines_vision.xmi"/>
+    <resourceDescriptors xmi:id="_F7y_UAYvEe-GdK8DpfvN8A" id="-EOOi6YBJuV6GDReqsrh-Qw" uri="workproducts/target_organization_assessment.xmi"/>
+    <resourceDescriptors xmi:id="_1aT9gAphEe-Ir9E9KHWjOg" id="-WmtzhxJS0ypSQ_2LkbEqAA" uri="roles/business_process_analyst.xmi"/>
+    <resourceDescriptors xmi:id="_zZdfEgpsEe-Ir9E9KHWjOg" id="-pFo-juRHZVJ6Egr-houn1g" uri="tasks/define_the_business_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_9JM60gpsEe-Ir9E9KHWjOg" id="-bD_EkSUJ642QVY3HIGYOVQ" uri="tasks/find_business_actors_and_use_cases.xmi"/>
+    <resourceDescriptors xmi:id="_xWsgoAptEe-Ir9E9KHWjOg" id="-d6CAPA4FSmDtWUeO3ZDy6w" uri="workproducts/business_architecture_document.xmi"/>
+    <resourceDescriptors xmi:id="_-_lYMgptEe-Ir9E9KHWjOg" id="-zDjnpXUd0IcOapQC1NnaQg" uri="workproducts/business_modeling_guidelines.xmi"/>
+    <resourceDescriptors xmi:id="_VBbM0QpwEe-Ir9E9KHWjOg" id="-Ye2sm5hPqC_PNCiZMwxjjQ" uri="workproducts/supplementary_business_specification.xmi"/>
+    <resourceDescriptors xmi:id="_GjE3cApxEe-Ir9E9KHWjOg" id="-N7luIEfeayGSS7MVysgVjw" uri="workproducts/business_use_case.xmi"/>
+    <resourceDescriptors xmi:id="_khsnUApxEe-Ir9E9KHWjOg" id="-Set7X8z3VYf2i_Yra8H86g" uri="workproducts/business_use-case_model.xmi"/>
+    <resourceDescriptors xmi:id="_I6TT4Ap5Ee-Ir9E9KHWjOg" id="-7lf1p1U0kCimN3Ni2cQuXg" uri="roles/business_designer.xmi"/>
+    <resourceDescriptors xmi:id="_7hfDMAp5Ee-Ir9E9KHWjOg" id="-q_14RyW_cTvN9kbkvbezkQ" uri="tasks/find_business_workers_and_entities.xmi"/>
+    <resourceDescriptors xmi:id="_xNhqoAp6Ee-Ir9E9KHWjOg" id="-ixz1q6wZffg_wuv_2CCJGg" uri="workproducts/business_use-case_realization.xmi"/>
+    <resourceDescriptors xmi:id="_69S7kAp6Ee-Ir9E9KHWjOg" id="-2BupTnHwf2WLyI1S4-KllQ" uri="workproducts/business_object_model.xmi"/>
+    <resourceDescriptors xmi:id="_R1b7gAp8Ee-Ir9E9KHWjOg" id="-yO5ZgVq4remQsSc7NOnfeg" uri="roles/business-model_reviewer.xmi"/>
+    <resourceDescriptors xmi:id="_g5QgAgp8Ee-Ir9E9KHWjOg" id="-WqVRi9-ikMfA9CUzAzx5Jg" uri="tasks/structure_the_business_use-case_model.xmi"/>
+    <resourceDescriptors xmi:id="_qfCugAp8Ee-Ir9E9KHWjOg" id="-N5naihalW0VG6Iw5dHcCRQ" uri="tasks/review_the_business_use-case_model.xmi"/>
+    <resourceDescriptors xmi:id="_-qXYUgp8Ee-Ir9E9KHWjOg" id="-s0hLamK9lSzQHz7m-p84mQ" uri="tasks/detail_a_business_use_case.xmi"/>
+    <resourceDescriptors xmi:id="_IeMp4gp9Ee-Ir9E9KHWjOg" id="-eSZu4z8Cyuv9z65w7-TKow" uri="workproducts/review_record.xmi"/>
+    <resourceDescriptors xmi:id="_83eMcgp-Ee-Ir9E9KHWjOg" id="-CUPsNhNWuXvdvPl4lXYMAg" uri="tasks/review_the_business_object_model.xmi"/>
+    <resourceDescriptors xmi:id="_YthGQAp_Ee-Ir9E9KHWjOg" id="-GjEsEQntt2o4YS8L0IzNrg" uri="workproducts/business_entity.xmi"/>
+    <resourceDescriptors xmi:id="_uF16AAsUEe-Ir9E9KHWjOg" id="-ahnvLBpkAw4YDWBYjiFOCg" uri="tasks/define_automation_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_R2UeUAsWEe-Ir9E9KHWjOg" id="-wF6n6ljm6jYb3sm2D_ANzA" uri="workproducts/supplementary_specifications.xmi"/>
+    <resourceDescriptors xmi:id="_EyaGogsXEe-Ir9E9KHWjOg" id="-0f5qUlDsg8bSMT4vsBhu2w" uri="workproducts/use-case_model.xmi"/>
+    <resourceDescriptors xmi:id="_Qw4DwQsXEe-Ir9E9KHWjOg" id="-9TXw_CSAU9V8CrsxQZILmA" uri="workproducts/analysis_model.xmi"/>
+    <resourceDescriptors xmi:id="_6loXUgsbEe-Ir9E9KHWjOg" id="--A94acJ19QFeW3LbmDYrlw" uri="tasks/detail_a_business_worker.xmi"/>
+    <resourceDescriptors xmi:id="_BwG5ogsfEe-Ir9E9KHWjOg" id="-K4V3T284-1fNS_xUIepqTw" uri="workproducts/organization_unit.xmi"/>
+    <resourceDescriptors xmi:id="_PNwKgAsfEe-Ir9E9KHWjOg" id="-i026lW81qYUK70jggrK4QA" uri="workproducts/business_worker.xmi"/>
+    <resourceDescriptors xmi:id="_y-nqwAusEe-KNZeel9MAgA" id="_y-eg0AusEe-KNZeel9MAgA" uri="capabilitypatterns/Asses%20Bussines%20Status/model.xmi"/>
+    <resourceDescriptors xmi:id="_P3eP8AuuEe-KNZeel9MAgA" id="_P3BkAAuuEe-KNZeel9MAgA" uri="deliveryprocesses/Process/model.xmi"/>
+    <resourceDescriptors xmi:id="_10Vekg5oEe-uEvymC0p-sg" id="-IgEHSQYX4bxds8UISW-uNQ" uri="guidances/templates/HTML.xmi"/>
+    <resourceDescriptors xmi:id="_cN1JAQ5pEe-uEvymC0p-sg" id="-hVVBngjYe3kJMEX9GZ4Fhw" uri="guidances/templates/Others.xmi"/>
+    <resourceDescriptors xmi:id="_fCk2og5rEe-uEvymC0p-sg" id="-qcz16XpHUaOhONFOj7TlfA" uri="workproducts/vision.xmi"/>
+    <resourceDescriptors xmi:id="_owK9UQ5rEe-uEvymC0p-sg" id="-61ZABO5UIWkRsmw9qLaX7w" uri="workproducts/stakeholder_requests.xmi"/>
+    <resourceDescriptors xmi:id="_-nLF0Q5rEe-uEvymC0p-sg" id="-l7HxxIKcjKWxOL8qS0NxNg" uri="guidances/templates/HTML%20Template:%20vision.xmi"/>
+    <resourceDescriptors xmi:id="_cUHP0Q5sEe-uEvymC0p-sg" id="-SFHFnu_xbFRFdMTTfOhJ5A" uri="guidances/templates/html_template_vision_for_small_projects.xmi"/>
+    <resourceDescriptors xmi:id="_YanfMA7vEe-XRJQJ8FX8Ug" id="-QGG1k89swjPkMRDoDepdoQ" uri="guidances/templates/html%202.xmi"/>
+    <resourceDescriptors xmi:id="_jpKbQg7vEe-XRJQJ8FX8Ug" id="-d1wxus9B-U8V9vcg9hH1jQ" uri="guidances/templates/others%202.xmi"/>
+    <resourceDescriptors xmi:id="_kw5A4g8GEe-XRJQJ8FX8Ug" id="-iu6dgJsSSnr712jFzgFvQA" uri="workproducts/glossary.xmi"/>
+    <resourceDescriptors xmi:id="_Ep1IYA8HEe-XRJQJ8FX8Ug" id="-9ku0rg98EuytQ249RLofSg" uri="workproducts/business_actor.xmi"/>
+    <resourceDescriptors xmi:id="_7HUMIA8NEe-XRJQJ8FX8Ug" id="-lxYi4DpQ7HvnAYbmy64zRA" uri="guidances/templates/html%203.xmi"/>
+    <resourceDescriptors xmi:id="__UtZoQ8NEe-XRJQJ8FX8Ug" id="-vitx6Aj8JZ45K49N2S1BTw" uri="guidances/templates/others%203.xmi"/>
+    <resourceDescriptors xmi:id="_KysJwA8XEe-XRJQJ8FX8Ug" id="-PQqMOxS6TB80eV0dY2KZ0Q" uri="tasks/detail_a_business_entity.xmi"/>
+    <resourceDescriptors xmi:id="_aA8lMA8uEe-XRJQJ8FX8Ug" id="-5f6mVsnIKE1rbzmlzKM3mg" uri="guidances/templates/html%204.xmi"/>
+    <resourceDescriptors xmi:id="_gZteEA8uEe-XRJQJ8FX8Ug" id="-GmoJT__aagUmoacqmXrkjw" uri="guidances/templates/others%204.xmi"/>
+    <resourceDescriptors xmi:id="_0gEvYA8uEe-XRJQJ8FX8Ug" id="-dkNEBlcls3gEcQiEqnF1KA" uri="guidances/examples/analysis_model_from_the_course_registration_system.xmi"/>
+    <resourceDescriptors xmi:id="_zBCvIA86Ee-XRJQJ8FX8Ug" id="_zAmDMA86Ee-XRJQJ8FX8Ug" uri="capabilitypatterns/Identify%20Business%20Processes/model.xmi"/>
+    <resourceDescriptors xmi:id="_IJZ0QA_QEe-XRJQJ8FX8Ug" id="_IJG5UA_QEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Describe%20Current%20Business/model.xmi"/>
+    <resourceDescriptors xmi:id="_lIHCcA_UEe-XRJQJ8FX8Ug" id="_lHzgcA_UEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Refine%20Business%20Process%20Definitions/model.xmi"/>
+    <resourceDescriptors xmi:id="_Fzo9IA_YEe-XRJQJ8FX8Ug" id="_FzMRMA_YEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Develop%20a%20Domain%20Model/model.xmi"/>
+    <resourceDescriptors xmi:id="_92bcsA_cEe-XRJQJ8FX8Ug" id="_92IhwA_cEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Explore%20Process%20Automation/model.xmi"/>
+    <resourceDescriptors xmi:id="_sKDaMA_fEe-XRJQJ8FX8Ug" id="_sJwfQA_fEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Design%20Business%20Process%20Realizations/model.xmi"/>
+    <resourceDescriptors xmi:id="_BdGroA_hEe-XRJQJ8FX8Ug" id="_BcqmwA_hEe-XRJQJ8FX8Ug" uri="capabilitypatterns/Refine%20Roles%20and%20Responsibilities/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_8HMLUAYmEe-GdK8DpfvN8A" name="Business Model" guid="_8HMLUAYmEe-GdK8DpfvN8A">
+    <ownedRules xmi:id="_29FVQA7qEe-XRJQJ8FX8Ug" name="wpState" guid="_29FVQA7qEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;update&quot; como artefacto de salidad para la Activity:  Maintain Business Rules" body="update business rules "/>
+    <ownedRules xmi:id="_BvzbgA7sEe-XRJQJ8FX8Ug" name="wpState" guid="_BvzbgA7sEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;update&quot; como artefacto de salida para la Activity:  Set and Adjust Goals" body="update business vision"/>
+    <ownedRules xmi:id="_-ajhgA7sEe-XRJQJ8FX8Ug" name="wpState" guid="_-ajhgA7sEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;outlined&quot; como arefacto de salida para la Activity:  Define the Business Architecture" body="outlined business architecture document"/>
+    <ownedRules xmi:id="_3FwKQA8EEe-XRJQJ8FX8Ug" name="wpState" guid="_3FwKQA8EEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;outlined&quot; como artefacto de salida para la Activity:  Find Business Actors and Use Cases y como artefacto de entrada para la Activity:  Find Business Workers and Entities" body="outlined business use case"/>
+    <ownedRules xmi:id="_PowzwA8KEe-XRJQJ8FX8Ug" name="wpState" guid="_PowzwA8KEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;refined&quot; como artefacto de salida para la Activity:  Assess Target Organization" body="refined Target-Organization Assessment"/>
+    <ownedRules xmi:id="_cKQlcA8KEe-XRJQJ8FX8Ug" name="wpState" guid="_cKQlcA8KEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;refined&quot; como artefacto de salida para la Activity:  Set and Adjust Goal" body="refined Business Vision"/>
+    <ownedRules xmi:id="_qTf7kA8LEe-XRJQJ8FX8Ug" name="wpState" guid="_qTf7kA8LEe-XRJQJ8FX8Ug" briefDescription="cambia su estado a &quot;outlined&quot; como artefacto de salida para la Activity:  Find Business Workers and Entities" body="outlined Business Use-Case Realization"/>
+    <ownedRules xmi:id="_wjwjQA8MEe-XRJQJ8FX8Ug" name="wpState" guid="_wjwjQA8MEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;refined&quot; como artefacto de entrada para la Activity: Supplementary Business Specification" body="refined Supplementary Business Specification"/>
+    <ownedRules xmi:id="_SJPIQA8REe-XRJQJ8FX8Ug" name="wpState" guid="_SJPIQA8REe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;detailed&quot; como artefacto de entrada para la Activity:  Detail a Business Use Case" body="detailed Business Use Case"/>
+    <ownedRules xmi:id="_Sado4A8WEe-XRJQJ8FX8Ug" name="wpState" guid="_Sado4A8WEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;business entities only&quot; como artefacto de entrada para la Activity:  Detail a Business Entity&#xD;&#xA;" body="business entities only Business Object Model"/>
+    <ownedRules xmi:id="_rwaGAA8tEe-XRJQJ8FX8Ug" name="wpState" guid="_rwaGAA8tEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;Sketch&quot; como artefacto de salida para la Activity:  Define Automation Requirements" body="Sketch Supplementary Specifications"/>
+    <ownedRules xmi:id="_--5UIA8tEe-XRJQJ8FX8Ug" name="wpState" guid="_--5UIA8tEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;Skecth&quot; como artefacto de salida para la Activity:  Define Automation Requirements" body="Sketch Use-Case Model"/>
+    <ownedRules xmi:id="_Hnm2YA8uEe-XRJQJ8FX8Ug" name="wpState" guid="_Hnm2YA8uEe-XRJQJ8FX8Ug" briefDescription="Cambia su estado a &quot;sketch&quot; como artefacto de salida para la Activity:  Define Automation Requirements" body="sketch Analysis Model"/>
+    <methodElementProperty xmi:id="_8HVVQwYmEe-GdK8DpfvN8A" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLUQYmEe-GdK8DpfvN8A" name="Content" guid="_8HMLUQYmEe-GdK8DpfvN8A">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLUgYmEe-GdK8DpfvN8A" name="Categories" guid="_8HMLUgYmEe-GdK8DpfvN8A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLUwYmEe-GdK8DpfvN8A" name="Domains" guid="_8HMLUwYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLVAYmEe-GdK8DpfvN8A" name="Disciplines" guid="_8HMLVAYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLVQYmEe-GdK8DpfvN8A" name="RoleSets" guid="_8HMLVQYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLVgYmEe-GdK8DpfvN8A" name="WP Types" guid="_8HMLVgYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLVwYmEe-GdK8DpfvN8A" name="Tools" guid="_8HMLVwYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLWAYmEe-GdK8DpfvN8A" name="StandardCategories" guid="_8HMLWAYmEe-GdK8DpfvN8A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLWQYmEe-GdK8DpfvN8A" name="CustomCategories" guid="_8HMLWQYmEe-GdK8DpfvN8A">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLWgYmEe-GdK8DpfvN8A" name="Hidden" guid="_8HMLWgYmEe-GdK8DpfvN8A">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8HMLWwYmEe-GdK8DpfvN8A" name="Custom Categories" guid="_8HMLWwYmEe-GdK8DpfvN8A" categorizedElements="_zWYYkAuuEe-KNZeel9MAgA _s5zosA_KEe-XRJQJ8FX8Ug _EVSpcA_QEe-XRJQJ8FX8Ug _h5Qg0A_UEe-XRJQJ8FX8Ug _LMGhgA_WEe-XRJQJ8FX8Ug _6Y0tYA_cEe-XRJQJ8FX8Ug _qIaSkA_fEe-XRJQJ8FX8Ug _w11-cA_gEe-XRJQJ8FX8Ug"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zWYYkAuuEe-KNZeel9MAgA" name="asses_business_status" guid="_zWYYkAuuEe-KNZeel9MAgA" presentationName="Asses Business Status">
+            <methodElementProperty xmi:id="_2HRy4AuuEe-KNZeel9MAgA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_Tyt9gQuuEe-KNZeel9MAgA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_s5zosA_KEe-XRJQJ8FX8Ug" name="identify_business_processes" guid="_s5zosA_KEe-XRJQJ8FX8Ug" presentationName="Identify Business Processes">
+            <methodElementProperty xmi:id="_wOCZkA_KEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_sZZGcQ_OEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EVSpcA_QEe-XRJQJ8FX8Ug" name="describe_current_business" guid="_EVSpcA_QEe-XRJQJ8FX8Ug" presentationName="Describe Current Business">
+            <methodElementProperty xmi:id="_F8a_UA_QEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_RhwjYQ_TEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_h5Qg0A_UEe-XRJQJ8FX8Ug" name="refine_business_process_definitions" guid="_h5Qg0A_UEe-XRJQJ8FX8Ug" presentationName="Refine Business Process Definitions">
+            <methodElementProperty xmi:id="_i9zuEA_UEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_BQXtoQ_VEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LMGhgA_WEe-XRJQJ8FX8Ug" name="develop_a_domain_model" guid="_LMGhgA_WEe-XRJQJ8FX8Ug" presentationName="Develop a Domain Model">
+            <methodElementProperty xmi:id="_L1pNwA_WEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_atPCMQ_YEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Y0tYA_cEe-XRJQJ8FX8Ug" name="explore_process_automation" guid="_6Y0tYA_cEe-XRJQJ8FX8Ug" presentationName="Explore Process Automation">
+            <methodElementProperty xmi:id="_8b9p0A_cEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_IsNTcQ_dEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qIaSkA_fEe-XRJQJ8FX8Ug" name="design_business_process_realizations" guid="_qIaSkA_fEe-XRJQJ8FX8Ug" presentationName="Design Business Process Realizations">
+            <methodElementProperty xmi:id="_qzB84A_fEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_MsSWUQ_gEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w11-cA_gEe-XRJQJ8FX8Ug" name="refine_roles_and_responsibilities" guid="_w11-cA_gEe-XRJQJ8FX8Ug" presentationName="Refine Roles and Responsibilities">
+            <methodElementProperty xmi:id="_xjpfoA_gEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_O59SUA_hEe-XRJQJ8FX8Ug"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8HMLXAYmEe-GdK8DpfvN8A" name="CoreContent" guid="_8HMLXAYmEe-GdK8DpfvN8A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M-3TEAYnEe-GdK8DpfvN8A" name="Assess Business Status" guid="_M-3TEAYnEe-GdK8DpfvN8A">
+          <methodElementProperty xmi:id="_M-3TEQYnEe-GdK8DpfvN8A" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_3WjRYAYnEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OLfBwAYoEe-GdK8DpfvN8A" name="capture_a_common_business_vocabulary" guid="_OLfBwAYoEe-GdK8DpfvN8A" presentationName="Capture a Common Business Vocabulary" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_gMxOMAYuEe-GdK8DpfvN8A _aVxwUA5rEe-uEvymC0p-sg _jePJoA5rEe-uEvymC0p-sg" output="_jI750AYtEe-GdK8DpfvN8A">
+            <methodElementProperty xmi:id="_AApeQAYpEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <presentation xmi:id="-6CnI138DlRri-7w5Fr_FfQ" href="uma://-6CnI138DlRri-7w5Fr_FfQ#-6CnI138DlRri-7w5Fr_FfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_74fgoAYpEe-GdK8DpfvN8A" name="business_process_analyst" guid="_74fgoAYpEe-GdK8DpfvN8A" presentationName="Business_Process_Analyst" briefDescription="The business-process analyst leads and coordinates business use-case modeling by outlining and delimiting the organization being modeled">
+            <methodElementProperty xmi:id="_UnE6QAYqEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <presentation xmi:id="-WmtzhxJS0ypSQ_2LkbEqAA" href="uma://-WmtzhxJS0ypSQ_2LkbEqAA#-WmtzhxJS0ypSQ_2LkbEqAA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4DS7QAYqEe-GdK8DpfvN8A" name="maintain_business_rules" guid="_4DS7QAYqEe-GdK8DpfvN8A" presentationName="Maintain_Business_Rules" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_qOsjMAptEe-Ir9E9KHWjOg _1lJLIAp6Ee-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A _evZRgApxEe-Ir9E9KHWjOg _gMxOMAYuEe-GdK8DpfvN8A" output="_O1c9EAYuEe-GdK8DpfvN8A" optionalInput="_O1c9EAYuEe-GdK8DpfvN8A">
+            <methodElementProperty xmi:id="_Vef1AAYrEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <presentation xmi:id="-62XnN1OPPz9EVaI8DSuCbg" href="uma://-62XnN1OPPz9EVaI8DSuCbg#-62XnN1OPPz9EVaI8DSuCbg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mxysUAYsEe-GdK8DpfvN8A" name="assess_target_organization" guid="_mxysUAYsEe-GdK8DpfvN8A" presentationName="Assess Target Organization" performedBy="_74fgoAYpEe-GdK8DpfvN8A" output="_wqC48AYuEe-GdK8DpfvN8A">
+            <methodElementProperty xmi:id="_0mIl8AYsEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <presentation xmi:id="-18Nx5Ul3kPgCXxNvMRpwzg" href="uma://-18Nx5Ul3kPgCXxNvMRpwzg#-18Nx5Ul3kPgCXxNvMRpwzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_26wT8AYsEe-GdK8DpfvN8A" name="set_and_ajust_goals" guid="_26wT8AYsEe-GdK8DpfvN8A" presentationName="Set and Ajust Goals" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_wqC48AYuEe-GdK8DpfvN8A" output="_gMxOMAYuEe-GdK8DpfvN8A">
+            <methodElementProperty xmi:id="_9Ue2IAYsEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <presentation xmi:id="-car4evElFUqjg6y_cX7ZEg" href="uma://-car4evElFUqjg6y_cX7ZEg#-car4evElFUqjg6y_cX7ZEg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jI750AYtEe-GdK8DpfvN8A" name="business_glossary" guid="_jI750AYtEe-GdK8DpfvN8A" presentationName="Business Glossary" briefDescription="The Business Glossary defines important terms used in the business modeling portion of the project." templates="_fMbhwA5hEe-uEvymC0p-sg _D-IDwA5pEe-uEvymC0p-sg">
+            <methodElementProperty xmi:id="_1aLckAYtEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_E9R6oAurEe-KNZeel9MAgA" name="Workproduct_states"/>
+            <presentation xmi:id="-qof-QNd1I35AsSxisfbhQA" href="uma://-qof-QNd1I35AsSxisfbhQA#-qof-QNd1I35AsSxisfbhQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_O1c9EAYuEe-GdK8DpfvN8A" name="business_rules" guid="_O1c9EAYuEe-GdK8DpfvN8A" presentationName="Business Rules" briefDescription="Business Rules are declarations of policy or conditions that must be satisfied." templates="_fMbhwA5hEe-uEvymC0p-sg _D-IDwA5pEe-uEvymC0p-sg">
+            <methodElementProperty xmi:id="_dyEGUAYuEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_dlyvMAuwEe-KNZeel9MAgA" name="Workproduct_states" value="_29FVQA7qEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-lz-LQ5qFFaqQcS4SmKMCjQ" href="uma://-lz-LQ5qFFaqQcS4SmKMCjQ#-lz-LQ5qFFaqQcS4SmKMCjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gMxOMAYuEe-GdK8DpfvN8A" name="busines_vision" guid="_gMxOMAYuEe-GdK8DpfvN8A" presentationName="Busines Vision" briefDescription="The Business Vision defines the set of goals and objectives at which the business modeling effort is aimed." templates="_fMbhwA5hEe-uEvymC0p-sg _D-IDwA5pEe-uEvymC0p-sg">
+            <methodElementProperty xmi:id="_sqTF4AYuEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_WeeqAA7sEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_BvzbgA7sEe-XRJQJ8FX8Ug/_cKQlcA8KEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-WznfZSOPJngWozhfdXnJew" href="uma://-WznfZSOPJngWozhfdXnJew#-WznfZSOPJngWozhfdXnJew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wqC48AYuEe-GdK8DpfvN8A" name="target_organization_assessment" guid="_wqC48AYuEe-GdK8DpfvN8A" presentationName="target_organization_assessment" briefDescription="The Target-Organization Assessment describes the current status of the organization in which the system is to be deployed. The description is in terms of current processes, tools, peoples' competencies, peoples' attitudes, customers, competitors, technical trends, problems, and improvement areas." templates="_fMbhwA5hEe-uEvymC0p-sg _D-IDwA5pEe-uEvymC0p-sg">
+            <methodElementProperty xmi:id="_F7pOUAYvEe-GdK8DpfvN8A" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_9Q_q4A8MEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_PowzwA8KEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-EOOi6YBJuV6GDReqsrh-Qw" href="uma://-EOOi6YBJuV6GDReqsrh-Qw#-EOOi6YBJuV6GDReqsrh-Qw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_fMbhwA5hEe-uEvymC0p-sg" name="html" guid="_fMbhwA5hEe-uEvymC0p-sg" presentationName="HTML">
+            <methodElementProperty xmi:id="_10VekA5oEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-IgEHSQYX4bxds8UISW-uNQ" href="uma://-IgEHSQYX4bxds8UISW-uNQ#-IgEHSQYX4bxds8UISW-uNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_D-IDwA5pEe-uEvymC0p-sg" name="others" guid="_D-IDwA5pEe-uEvymC0p-sg" presentationName="Others">
+            <methodElementProperty xmi:id="_NNSiAA5pEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-hVVBngjYe3kJMEX9GZ4Fhw" href="uma://-hVVBngjYe3kJMEX9GZ4Fhw#-hVVBngjYe3kJMEX9GZ4Fhw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_aVxwUA5rEe-uEvymC0p-sg" name="vision" guid="_aVxwUA5rEe-uEvymC0p-sg" presentationName="Vision" briefDescription="The Vision defines the stakeholders view of the product to be developed, specified in terms of the stakeholders key needs and features. Containing an outline of the envisioned core requirements, it provides the contractual basis for the more detailed technical requirements.">
+            <methodElementProperty xmi:id="_fCk2oA5rEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-qcz16XpHUaOhONFOj7TlfA" href="uma://-qcz16XpHUaOhONFOj7TlfA#-qcz16XpHUaOhONFOj7TlfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jePJoA5rEe-uEvymC0p-sg" name="stakeholder_requests" guid="_jePJoA5rEe-uEvymC0p-sg" presentationName="Stakeholder Requests" briefDescription="This artifact contains any type of requests a stakeholder (customer, end user, marketing person, and so on) might have on the system to be developed. It may also contain references to any type of external sources to which the system must comply." templates="_fMbhwA5hEe-uEvymC0p-sg _D-IDwA5pEe-uEvymC0p-sg">
+            <methodElementProperty xmi:id="_owBzYA5rEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-61ZABO5UIWkRsmw9qLaX7w" href="uma://-61ZABO5UIWkRsmw9qLaX7w#-61ZABO5UIWkRsmw9qLaX7w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_xG9CEA5rEe-uEvymC0p-sg" name="html_template_vision" guid="_xG9CEA5rEe-uEvymC0p-sg" presentationName="HTML Template: Vision">
+            <methodElementProperty xmi:id="_2VRhEA5rEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-l7HxxIKcjKWxOL8qS0NxNg" href="uma://-l7HxxIKcjKWxOL8qS0NxNg#-l7HxxIKcjKWxOL8qS0NxNg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_Azo9YA5sEe-uEvymC0p-sg" name="html_template_vision_for_small_projects" guid="_Azo9YA5sEe-uEvymC0p-sg" presentationName="HTML Template: Vision (for small projects)">
+            <methodElementProperty xmi:id="_Ih8s4A5sEe-uEvymC0p-sg" name="me_edited" value="true"/>
+            <presentation xmi:id="-SFHFnu_xbFRFdMTTfOhJ5A" href="uma://-SFHFnu_xbFRFdMTTfOhJ5A#-SFHFnu_xbFRFdMTTfOhJ5A"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_75ptkApjEe-Ir9E9KHWjOg" name="Identify Business Processes" guid="_75ptkApjEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_75q7sApjEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9Vn8UApjEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ridtoApsEe-Ir9E9KHWjOg" name="define_the_business_architecture" guid="_ridtoApsEe-Ir9E9KHWjOg" presentationName="Define the Business Architecture" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_1lJLIAp6Ee-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A _KZVz0ApwEe-Ir9E9KHWjOg _evZRgApxEe-Ir9E9KHWjOg _gMxOMAYuEe-GdK8DpfvN8A _O1c9EAYuEe-GdK8DpfvN8A" output="_qOsjMAptEe-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_zZdfEApsEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-pFo-juRHZVJ6Egr-houn1g" href="uma://-pFo-juRHZVJ6Egr-houn1g#-pFo-juRHZVJ6Egr-houn1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_62-ZgApsEe-Ir9E9KHWjOg" name="find_business_actors_and_use_cases" guid="_62-ZgApsEe-Ir9E9KHWjOg" presentationName="Find Business Actors and Use Cases" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_6R9ygAptEe-Ir9E9KHWjOg _jePJoA5rEe-uEvymC0p-sg _aVxwUA5rEe-uEvymC0p-sg _Y5q7QA8GEe-XRJQJ8FX8Ug" output="_evZRgApxEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg _9ZMMUA8GEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_9JM60ApsEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-bD_EkSUJ642QVY3HIGYOVQ" href="uma://-bD_EkSUJ642QVY3HIGYOVQ#-bD_EkSUJ642QVY3HIGYOVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qOsjMAptEe-Ir9E9KHWjOg" name="business_architecture_document" guid="_qOsjMAptEe-Ir9E9KHWjOg" presentationName="Business Architecture Document" briefDescription="The Business Architecture Document provides a comprehensive overview of the business, using a number of different architectural views to depict different aspects of the business." templates="_L8-50A7vEe-XRJQJ8FX8Ug _fhrogA7vEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_xWivoAptEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="__FNBAA7sEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_-ajhgA7sEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-d6CAPA4FSmDtWUeO3ZDy6w" href="uma://-d6CAPA4FSmDtWUeO3ZDy6w#-d6CAPA4FSmDtWUeO3ZDy6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6R9ygAptEe-Ir9E9KHWjOg" name="business_modeling_guidelines" guid="_6R9ygAptEe-Ir9E9KHWjOg" presentationName="Business Modeling Guidelines" briefDescription="Describes the business modeling guidelines." templates="_L8-50A7vEe-XRJQJ8FX8Ug _fhrogA7vEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_-_lYMAptEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-zDjnpXUd0IcOapQC1NnaQg" href="uma://-zDjnpXUd0IcOapQC1NnaQg#-zDjnpXUd0IcOapQC1NnaQg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KZVz0ApwEe-Ir9E9KHWjOg" name="supplementary_business_specification" guid="_KZVz0ApwEe-Ir9E9KHWjOg" presentationName="Supplementary Business Specification" briefDescription="This document presents any necessary definitions of the business not included in the Business Use-Case Model or the Business Object Model." templates="_L8-50A7vEe-XRJQJ8FX8Ug _fhrogA7vEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_Lk5oAApwEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_UzRCYA8NEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_wjwjQA8MEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-Ye2sm5hPqC_PNCiZMwxjjQ" href="uma://-Ye2sm5hPqC_PNCiZMwxjjQ#-Ye2sm5hPqC_PNCiZMwxjjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A5pJwApxEe-Ir9E9KHWjOg" name="business_use_case" guid="_A5pJwApxEe-Ir9E9KHWjOg" presentationName="Business Use Case" briefDescription="A business use case (class) defines a set of business use-case instances, where each instance is a sequence of actions a business performs that yields an observable result of value to a particular business actor.">
+            <methodElementProperty xmi:id="_Gi_X4ApxEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_G1bIIA8FEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_3FwKQA8EEe-XRJQJ8FX8Ug/_SJPIQA8REe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-N7luIEfeayGSS7MVysgVjw" href="uma://-N7luIEfeayGSS7MVysgVjw#-N7luIEfeayGSS7MVysgVjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_evZRgApxEe-Ir9E9KHWjOg" name="business_use-case_model" guid="_evZRgApxEe-Ir9E9KHWjOg" presentationName="Business Use-Case Model" briefDescription="The Business Use-Case Model is a model of the business intended functions. It is used as an essential input to identify roles and deliverables in the organization." reports="_wE5mYA7zEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_khi2UApxEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Set7X8z3VYf2i_Yra8H86g" href="uma://-Set7X8z3VYf2i_Yra8H86g#-Set7X8z3VYf2i_Yra8H86g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_L8-50A7vEe-XRJQJ8FX8Ug" name="html" guid="_L8-50A7vEe-XRJQJ8FX8Ug" presentationName="HTML">
+            <methodElementProperty xmi:id="_YaeVQA7vEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-QGG1k89swjPkMRDoDepdoQ" href="uma://-QGG1k89swjPkMRDoDepdoQ#-QGG1k89swjPkMRDoDepdoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_fhrogA7vEe-XRJQJ8FX8Ug" name="others" guid="_fhrogA7vEe-XRJQJ8FX8Ug" presentationName="Others">
+            <methodElementProperty xmi:id="_jpKbQA7vEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-d1wxus9B-U8V9vcg9hH1jQ" href="uma://-d1wxus9B-U8V9vcg9hH1jQ#-d1wxus9B-U8V9vcg9hH1jQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_wE5mYA7zEe-XRJQJ8FX8Ug" name="business_use-case_model_survey" guid="_wE5mYA7zEe-XRJQJ8FX8Ug" presentationName="Business Use-Case Model Survey" briefDescription="This report describes the business use-case model. It gives a complete overview of the results of use-case modeling, and includes brief descriptions for every business actor and business use case.">
+            <methodElementProperty xmi:id="_4QMz4A7zEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Y5q7QA8GEe-XRJQJ8FX8Ug" name="glossary" guid="_Y5q7QA8GEe-XRJQJ8FX8Ug" presentationName="Glossary" briefDescription="The Glossary defines important terms used by the project." templates="_L8-50A7vEe-XRJQJ8FX8Ug _fhrogA7vEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_kw5A4A8GEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-iu6dgJsSSnr712jFzgFvQA" href="uma://-iu6dgJsSSnr712jFzgFvQA#-iu6dgJsSSnr712jFzgFvQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9ZMMUA8GEe-XRJQJ8FX8Ug" name="business_actor" guid="_9ZMMUA8GEe-XRJQJ8FX8Ug" presentationName="Business Actor" briefDescription="A business actor represents a role played in relation to the business by someone or something in the business environment." reports="_JWbaYA8HEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_EprXYA8HEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-9ku0rg98EuytQ249RLofSg" href="uma://-9ku0rg98EuytQ249RLofSg#-9ku0rg98EuytQ249RLofSg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_JWbaYA8HEe-XRJQJ8FX8Ug" name="business_actor_report_-_" guid="_JWbaYA8HEe-XRJQJ8FX8Ug" presentationName="Business Actor Report - " briefDescription="This report contains information regarding a business actor (&lt;business actor name>) within the business use-case model.">
+            <methodElementProperty xmi:id="_L6boMA8HEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IgPaoApkEe-Ir9E9KHWjOg" name="Describe Current Business" guid="_IgPaoApkEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_IgPaoQpkEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_J4KP0ApkEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="__1nAQAp4Ee-Ir9E9KHWjOg" name="business_designer" guid="__1nAQAp4Ee-Ir9E9KHWjOg" presentationName="Business Designer" briefDescription="The business designer role details the specification of a part of the organization by describing the workflow of one or several business use cases. This role specifies the business workers and business entities needed to realize a business use case, and distributes the behavior of the business use case to these. The business designer defines the responsibilities, operations, attributes, and relationships of one or several business workers and business entities.">
+            <methodElementProperty xmi:id="_I6Ji4Ap5Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-7lf1p1U0kCimN3Ni2cQuXg" href="uma://-7lf1p1U0kCimN3Ni2cQuXg#-7lf1p1U0kCimN3Ni2cQuXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yYnaMAp5Ee-Ir9E9KHWjOg" name="find_business_workers_and_entities" guid="_yYnaMAp5Ee-Ir9E9KHWjOg" presentationName="Find Business Workers and Entities" performedBy="__1nAQAp4Ee-Ir9E9KHWjOg" mandatoryInput="_aVxwUA5rEe-uEvymC0p-sg _evZRgApxEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A" output="_1lJLIAp6Ee-Ir9E9KHWjOg _SGThsAp_Ee-Ir9E9KHWjOg _H1IXIAsfEe-Ir9E9KHWjOg _sIPy4Ap6Ee-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_2K8cUAp5Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-q_14RyW_cTvN9kbkvbezkQ" href="uma://-q_14RyW_cTvN9kbkvbezkQ#-q_14RyW_cTvN9kbkvbezkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_sIPy4Ap6Ee-Ir9E9KHWjOg" name="business_use-case_realization" guid="_sIPy4Ap6Ee-Ir9E9KHWjOg" presentationName="Business Use-Case Realization" briefDescription="Describes how a particular business use case is realized within the business object model, in terms of collaborating objects (instances of business workers and business entities)." templates="_3sOlUA8NEe-XRJQJ8FX8Ug _75OxQA8NEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_xNYgsAp6Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_OISYIA8NEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_qTf7kA8LEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-ixz1q6wZffg_wuv_2CCJGg" href="uma://-ixz1q6wZffg_wuv_2CCJGg#-ixz1q6wZffg_wuv_2CCJGg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1lJLIAp6Ee-Ir9E9KHWjOg" name="business_object_model" guid="_1lJLIAp6Ee-Ir9E9KHWjOg" presentationName="Business Object Model" briefDescription="The business object model is an object model describing the realization of business use cases." reports="_ulQZwA8NEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_69JxoAp6Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_VC98MA8WEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_Sado4A8WEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-2BupTnHwf2WLyI1S4-KllQ" href="uma://-2BupTnHwf2WLyI1S4-KllQ#-2BupTnHwf2WLyI1S4-KllQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_ulQZwA8NEe-XRJQJ8FX8Ug" name="business_object_model_survey" guid="_ulQZwA8NEe-XRJQJ8FX8Ug" presentationName="Business Object Model Survey" briefDescription="This report contains a survey of the business object model. The business structure is shown hierarchically.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_zAbkkA8NEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_3sOlUA8NEe-XRJQJ8FX8Ug" name="html" guid="_3sOlUA8NEe-XRJQJ8FX8Ug" presentationName="HTML">
+            <methodElementProperty xmi:id="_7HKbIA8NEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-lxYi4DpQ7HvnAYbmy64zRA" href="uma://-lxYi4DpQ7HvnAYbmy64zRA#-lxYi4DpQ7HvnAYbmy64zRA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_75OxQA8NEe-XRJQJ8FX8Ug" name="others" guid="_75OxQA8NEe-XRJQJ8FX8Ug" presentationName="Others">
+            <methodElementProperty xmi:id="__UkPsA8NEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-vitx6Aj8JZ45K49N2S1BTw" href="uma://-vitx6Aj8JZ45K49N2S1BTw#-vitx6Aj8JZ45K49N2S1BTw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MvebMApkEe-Ir9E9KHWjOg" name="Refine Business Process Definitions" guid="_MvebMApkEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_MvebMQpkEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ODg18ApkEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_NiGeEAp8Ee-Ir9E9KHWjOg" name="business-model_reviewer" guid="_NiGeEAp8Ee-Ir9E9KHWjOg" presentationName="Business-Model Reviewer" briefDescription="The business-model reviewer participates in formal reviews of the business use-case model and business object model.">
+            <methodElementProperty xmi:id="_R1SKgAp8Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-yO5ZgVq4remQsSc7NOnfeg" href="uma://-yO5ZgVq4remQsSc7NOnfeg#-yO5ZgVq4remQsSc7NOnfeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_d8-8IAp8Ee-Ir9E9KHWjOg" name="structure_the_business_use-case_model" guid="_d8-8IAp8Ee-Ir9E9KHWjOg" presentationName="Structure the Business Use-Case Model" performedBy="_74fgoAYpEe-GdK8DpfvN8A" mandatoryInput="_jI750AYtEe-GdK8DpfvN8A _KZVz0ApwEe-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _evZRgApxEe-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg" output="_evZRgApxEe-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_g5QgAAp8Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-WqVRi9-ikMfA9CUzAzx5Jg" href="uma://-WqVRi9-ikMfA9CUzAzx5Jg#-WqVRi9-ikMfA9CUzAzx5Jg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mdlEMAp8Ee-Ir9E9KHWjOg" name="review_the_business_use-case_model" guid="_mdlEMAp8Ee-Ir9E9KHWjOg" presentationName="Review the Business Use-Case Model" performedBy="_NiGeEAp8Ee-Ir9E9KHWjOg" mandatoryInput="_evZRgApxEe-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A" output="_B8GO0Ap9Ee-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_qe5kkAp8Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-N5naihalW0VG6Iw5dHcCRQ" href="uma://-N5naihalW0VG6Iw5dHcCRQ#-N5naihalW0VG6Iw5dHcCRQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8LIVwAp8Ee-Ir9E9KHWjOg" name="detail_a_business_use_case" guid="_8LIVwAp8Ee-Ir9E9KHWjOg" presentationName="Detail a Business Use Case" performedBy="__1nAQAp4Ee-Ir9E9KHWjOg" mandatoryInput="_aVxwUA5rEe-uEvymC0p-sg _jePJoA5rEe-uEvymC0p-sg _evZRgApxEe-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A _9ZMMUA8GEe-XRJQJ8FX8Ug _A5pJwApxEe-Ir9E9KHWjOg" output="_KZVz0ApwEe-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_-qXYUAp8Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-s0hLamK9lSzQHz7m-p84mQ" href="uma://-s0hLamK9lSzQHz7m-p84mQ#-s0hLamK9lSzQHz7m-p84mQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_B8GO0Ap9Ee-Ir9E9KHWjOg" name="review_record" guid="_B8GO0Ap9Ee-Ir9E9KHWjOg" presentationName="Review Record" briefDescription="A Review Record is created to capture the results of the review of a project artifact.">
+            <methodElementProperty xmi:id="_IeMp4Ap9Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-eSZu4z8Cyuv9z65w7-TKow" href="uma://-eSZu4z8Cyuv9z65w7-TKow#-eSZu4z8Cyuv9z65w7-TKow"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kELCAApqEe-Ir9E9KHWjOg" name="Develop a Domain Model" guid="_kELCAApqEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_kELCAQpqEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_lEjg8ApqEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5NDwMAp-Ee-Ir9E9KHWjOg" name="review_the_business_object_model" guid="_5NDwMAp-Ee-Ir9E9KHWjOg" presentationName="Review the Business Object Model" performedBy="_NiGeEAp8Ee-Ir9E9KHWjOg" mandatoryInput="_jI750AYtEe-GdK8DpfvN8A _1lJLIAp6Ee-Ir9E9KHWjOg _H1IXIAsfEe-Ir9E9KHWjOg _SGThsAp_Ee-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _7tvHgAseEe-Ir9E9KHWjOg" output="_B8GO0Ap9Ee-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_83eMcAp-Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-CUPsNhNWuXvdvPl4lXYMAg" href="uma://-CUPsNhNWuXvdvPl4lXYMAg#-CUPsNhNWuXvdvPl4lXYMAg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EWh_AAp_Ee-Ir9E9KHWjOg" name="detail_a_business_entity" guid="_EWh_AAp_Ee-Ir9E9KHWjOg" presentationName="Detail a Business Entity" briefDescription="To detail the definition of a business entity." performedBy="__1nAQAp4Ee-Ir9E9KHWjOg" mandatoryInput="_1lJLIAp6Ee-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg _sIPy4Ap6Ee-Ir9E9KHWjOg _6R9ygAptEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _SGThsAp_Ee-Ir9E9KHWjOg" output="_7tvHgAseEe-Ir9E9KHWjOg _SGThsAp_Ee-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_GRz_8Ap_Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-PQqMOxS6TB80eV0dY2KZ0Q" href="uma://-PQqMOxS6TB80eV0dY2KZ0Q#-PQqMOxS6TB80eV0dY2KZ0Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SGThsAp_Ee-Ir9E9KHWjOg" name="business_entity" guid="_SGThsAp_Ee-Ir9E9KHWjOg" presentationName="Business Entity" briefDescription="A business entity is a class that is passive; that is, it does not initiate interactions on its own. A business entity object may participate in many different business use-case realizations and usually outlives any single interaction. In business modeling, business entities represent objects that business workers access, inspect, manipulate, produce, and so on. Business entity objects provide the basis for sharing among business workers participating in different business use-case realizations." reports="_b3NQIA8WEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_YtXVQAp_Ee-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-GjEsEQntt2o4YS8L0IzNrg" href="uma://-GjEsEQntt2o4YS8L0IzNrg#-GjEsEQntt2o4YS8L0IzNrg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_b3NQIA8WEe-XRJQJ8FX8Ug" name="business_entity_business_entity_name" guid="_b3NQIA8WEe-XRJQJ8FX8Ug" presentationName="Business Entity " briefDescription="This report contain information regarding a business entity (&lt;business-entity name>) within the business object model.">
+            <methodElementProperty xmi:id="_f856MA8WEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_opfAQApqEe-Ir9E9KHWjOg" name="Explore Process Automation" guid="_opfAQApqEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_opfAQQpqEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_pgHtUApqEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pvHxYAsUEe-Ir9E9KHWjOg" name="define_automation_requirements" guid="_pvHxYAsUEe-Ir9E9KHWjOg" presentationName="Define Automation Requirements" performedBy="__1nAQAp4Ee-Ir9E9KHWjOg" mandatoryInput="_wqC48AYuEe-GdK8DpfvN8A _evZRgApxEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _1lJLIAp6Ee-Ir9E9KHWjOg _jI750AYtEe-GdK8DpfvN8A _qOsjMAptEe-Ir9E9KHWjOg" output="_IEL14AsWEe-Ir9E9KHWjOg _-tDR8AsWEe-Ir9E9KHWjOg _ISW_UAsXEe-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_uFsJAAsUEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ahnvLBpkAw4YDWBYjiFOCg" href="uma://-ahnvLBpkAw4YDWBYjiFOCg#-ahnvLBpkAw4YDWBYjiFOCg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IEL14AsWEe-Ir9E9KHWjOg" name="supplementary_specifications" guid="_IEL14AsWEe-Ir9E9KHWjOg" presentationName="Supplementary[System] Specifications" briefDescription="The Supplementary Specifications capture the system requirements that are not readily captured in the use cases of the use-case model. Such requirements include:&#xD;&#xA;&#xD;&#xA;■ Legal and regulatory requirements, and application standards&#xD;&#xA;■ Quality attributes of the system to be built, including usability, reliability, performance, and supportability requirements&#xD;&#xA;■ Other requirements such as operating systems and environments, compatibility requirements, and design constraints" templates="_TdrFcA8uEe-XRJQJ8FX8Ug _cIPo4A8uEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_KkIqIAsWEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_smpxgA8tEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_rwaGAA8tEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-wF6n6ljm6jYb3sm2D_ANzA" href="uma://-wF6n6ljm6jYb3sm2D_ANzA#-wF6n6ljm6jYb3sm2D_ANzA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-tDR8AsWEe-Ir9E9KHWjOg" name="use-case_model" guid="_-tDR8AsWEe-Ir9E9KHWjOg" presentationName="[System]Use-Case Model" briefDescription="The use-case model is a model of the system's intended functions and its environment, and serves as a contract between the customer and the developers. The use-case model is used as an essential input to activities in analysis, design, and test." reports="_lveo4A8uEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_EyaGoAsXEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_AaZo0A8uEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_--5UIA8tEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-0f5qUlDsg8bSMT4vsBhu2w" href="uma://-0f5qUlDsg8bSMT4vsBhu2w#-0f5qUlDsg8bSMT4vsBhu2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ISW_UAsXEe-Ir9E9KHWjOg" name="analysis_model" guid="_ISW_UAsXEe-Ir9E9KHWjOg" presentationName="Analysis Model" briefDescription="An object model describing the realization of use cases, and which serves as an abstraction of the Artifact: Design Model. The Analysis Model contains the results of use case analysis, instances of the Artifact: Analysis Class. The Analysis Model is an optional artifact (see Tailoring)." examples="_wcdwAA8uEe-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_QwuSwAsXEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_PExLgA8uEe-XRJQJ8FX8Ug" name="Workproduct_states" value="_Hnm2YA8uEe-XRJQJ8FX8Ug"/>
+            <presentation xmi:id="-9TXw_CSAU9V8CrsxQZILmA" href="uma://-9TXw_CSAU9V8CrsxQZILmA#-9TXw_CSAU9V8CrsxQZILmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_TdrFcA8uEe-XRJQJ8FX8Ug" name="html" guid="_TdrFcA8uEe-XRJQJ8FX8Ug" presentationName="html">
+            <methodElementProperty xmi:id="_aAy0MA8uEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-5f6mVsnIKE1rbzmlzKM3mg" href="uma://-5f6mVsnIKE1rbzmlzKM3mg#-5f6mVsnIKE1rbzmlzKM3mg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_cIPo4A8uEe-XRJQJ8FX8Ug" name="others" guid="_cIPo4A8uEe-XRJQJ8FX8Ug" presentationName="others">
+            <methodElementProperty xmi:id="_gZjtEA8uEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-GmoJT__aagUmoacqmXrkjw" href="uma://-GmoJT__aagUmoacqmXrkjw#-GmoJT__aagUmoacqmXrkjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_lveo4A8uEe-XRJQJ8FX8Ug" name="use-case_model_survey" guid="_lveo4A8uEe-XRJQJ8FX8Ug" presentationName="Use-Case Model Survey">
+            <methodElementProperty xmi:id="_nMTzQA8uEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_wcdwAA8uEe-XRJQJ8FX8Ug" name="analysis_model_from_the_course_registration_system" guid="_wcdwAA8uEe-XRJQJ8FX8Ug" presentationName="Analysis Model, from the Course Registration System">
+            <methodElementProperty xmi:id="_0f6-YA8uEe-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+            <presentation xmi:id="-dkNEBlcls3gEcQiEqnF1KA" href="uma://-dkNEBlcls3gEcQiEqnF1KA#-dkNEBlcls3gEcQiEqnF1KA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sfMGgApqEe-Ir9E9KHWjOg" name="Design Business Process Realizations" guid="_sfMGgApqEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_sfMGgQpqEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_tcW5YApqEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xVREoApqEe-Ir9E9KHWjOg" name="Refine Roles and Responsibilities" guid="_xVREoApqEe-Ir9E9KHWjOg">
+          <methodElementProperty xmi:id="_xVREoQpqEe-Ir9E9KHWjOg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_zZdxAApqEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2PePYAsbEe-Ir9E9KHWjOg" name="detail_a_business_worker" guid="_2PePYAsbEe-Ir9E9KHWjOg" presentationName="Detail a Business Worker" performedBy="__1nAQAp4Ee-Ir9E9KHWjOg" mandatoryInput="_6R9ygAptEe-Ir9E9KHWjOg _KZVz0ApwEe-Ir9E9KHWjOg _sIPy4Ap6Ee-Ir9E9KHWjOg _A5pJwApxEe-Ir9E9KHWjOg _1lJLIAp6Ee-Ir9E9KHWjOg" output="_H1IXIAsfEe-Ir9E9KHWjOg _7tvHgAseEe-Ir9E9KHWjOg">
+            <methodElementProperty xmi:id="_6loXUAsbEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="--A94acJ19QFeW3LbmDYrlw" href="uma://--A94acJ19QFeW3LbmDYrlw#--A94acJ19QFeW3LbmDYrlw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7tvHgAseEe-Ir9E9KHWjOg" name="organization_unit" guid="_7tvHgAseEe-Ir9E9KHWjOg" presentationName="Organization Unit" briefDescription="An organization unit is a collection of business workers, business entities, relationships, business use-case realizations, diagrams, and other organization units. It is used to structure the business object model by dividing it into smaller parts." shapeicon="workproducts/resources/organization_unit.jpg">
+            <methodElementProperty xmi:id="_BwG5oAsfEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-K4V3T284-1fNS_xUIepqTw" href="uma://-K4V3T284-1fNS_xUIepqTw#-K4V3T284-1fNS_xUIepqTw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H1IXIAsfEe-Ir9E9KHWjOg" name="business_worker" guid="_H1IXIAsfEe-Ir9E9KHWjOg" presentationName="Business Worker" briefDescription="A business worker is a class that represents an abstraction of a human that acts within the system. A business worker interacts with other business workers and manipulates business entities while participating in business use-case realizations." shapeicon="workproducts/resources/bworker.jpg" reports="_HcRPcA82Ee-XRJQJ8FX8Ug">
+            <methodElementProperty xmi:id="_PNmZgAsfEe-Ir9E9KHWjOg" name="me_edited" value="true"/>
+            <presentation xmi:id="-i026lW81qYUK70jggrK4QA" href="uma://-i026lW81qYUK70jggrK4QA#-i026lW81qYUK70jggrK4QA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_HcRPcA82Ee-XRJQJ8FX8Ug" name="business_worker_business-worker_name" guid="_HcRPcA82Ee-XRJQJ8FX8Ug" presentationName="Business Worker ">
+            <methodElementProperty xmi:id="_IXXlwA82Ee-XRJQJ8FX8Ug" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8HMLXQYmEe-GdK8DpfvN8A" name="CapabilityPatterns" guid="_8HMLXQYmEe-GdK8DpfvN8A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_y-eg0AusEe-KNZeel9MAgA" href="uma://_y-eg0AusEe-KNZeel9MAgA#_y-eg0AusEe-KNZeel9MAgA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_zAmDMA86Ee-XRJQJ8FX8Ug" href="uma://_zAmDMA86Ee-XRJQJ8FX8Ug#_zAmDMA86Ee-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_IJG5UA_QEe-XRJQJ8FX8Ug" href="uma://_IJG5UA_QEe-XRJQJ8FX8Ug#_IJG5UA_QEe-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_lHzgcA_UEe-XRJQJ8FX8Ug" href="uma://_lHzgcA_UEe-XRJQJ8FX8Ug#_lHzgcA_UEe-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_FzMRMA_YEe-XRJQJ8FX8Ug" href="uma://_FzMRMA_YEe-XRJQJ8FX8Ug#_FzMRMA_YEe-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_92IhwA_cEe-XRJQJ8FX8Ug" href="uma://_92IhwA_cEe-XRJQJ8FX8Ug#_92IhwA_cEe-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_sJwfQA_fEe-XRJQJ8FX8Ug" href="uma://_sJwfQA_fEe-XRJQJ8FX8Ug#_sJwfQA_fEe-XRJQJ8FX8Ug"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_BcqmwA_hEe-XRJQJ8FX8Ug" href="uma://_BcqmwA_hEe-XRJQJ8FX8Ug#_BcqmwA_hEe-XRJQJ8FX8Ug"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8HMLXgYmEe-GdK8DpfvN8A" name="DeliveryProcesses" guid="_8HMLXgYmEe-GdK8DpfvN8A">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_P3BkAAuuEe-KNZeel9MAgA" href="uma://_P3BkAAuuEe-KNZeel9MAgA#_P3BkAAuuEe-KNZeel9MAgA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8HMLXwYmEe-GdK8DpfvN8A" name="ProcessContributions" guid="_8HMLXwYmEe-GdK8DpfvN8A"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

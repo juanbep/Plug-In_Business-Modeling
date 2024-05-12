@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dkNEBlcls3gEcQiEqnF1KA" name="new_example,_wcdwAA8uEe-XRJQJ8FX8Ug" guid="-dkNEBlcls3gEcQiEqnF1KA" changeDate="2024-05-10T19:38:43.657-0500">
+  <mainDescription>&lt;ul&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; MARGIN-LEFT: 20px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    &lt;li style=&quot;LIST-STYLE-IMAGE: url(images/bullet1.gif)&quot;>&#xD;
+        &lt;a style=&quot;COLOR: rgb(0,0,255)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/wyliecollegeexample/courseregistrationproject/artifacts/analysisndesign/pt_analysismodel.htm&quot;&#xD;
+         target=&quot;_blank&quot;>&lt;u>Analysis Model&lt;/u>&lt;/a>, from the&lt;span>&amp;nbsp;&lt;/span>&lt;a style=&quot;COLOR: rgb(0,51,153)&quot;&#xD;
+        href=&quot;https://www.tesestec.com.br/pasteurjr/rup/examples/course_reg/ovu_creg.htm&quot;>&lt;u>Course Registration&#xD;
+        System&lt;/u>&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

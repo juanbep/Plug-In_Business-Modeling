@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d6CAPA4FSmDtWUeO3ZDy6w" name="new_artifact,_qOsjMAptEe-Ir9E9KHWjOg" guid="-d6CAPA4FSmDtWUeO3ZDy6w" changeDate="2024-05-04T18:26:25.831-0500">
+  <purpose>&lt;span&#xD;
+style='FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+The Business Architecture Document provides a comprehensive overview of the structure and purpose of the business. It&#xD;
+serves as a communication medium between the business-process analyst and other project team members, and contains the&#xD;
+business' definitions of key capabilities and mechanisms.&lt;/span></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
